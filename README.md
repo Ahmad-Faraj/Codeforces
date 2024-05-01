@@ -1,4 +1,4 @@
 # Codeforces
-I upload My Solutions for Codeforces problems in C++ here<br>
-Here is my Codeforces Account <br>
+I Upload My Solutions for Codeforces Problems in C++ Here<br>
+Here is My Codeforces Account <br>
 https://codeforces.com/profile/Ahmed_Faraj
